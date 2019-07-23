@@ -7,3 +7,7 @@ https://用户名.github.io
 搭建步骤
 1）创建个人站点 -> 新建仓库（注：仓库名必须是   用户名.github.io ）
 2)在仓库下新建index.html的文件即可
+
+注意：
+1） github pages 仅支持静态网页
+2） 仓库里面需要有.html文件
