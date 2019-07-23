@@ -1,4 +1,4 @@
-个人站点
+一）个人站点
 
 访问
 
@@ -10,4 +10,17 @@ https://用户名.github.io
 
 注意：
 1） github pages 仅支持静态网页
-2） 仓库里面需要有.html文件
+2） 仓库里面（仅）需要有.html文件
+
+
+
+
+二）Project Pages 项目站点
+
+ https://用户名.github.io/仓库名
+ 
+ 搭建步骤
+ 1） 进入项目主页，点击settings
+ 2）在settings页面，点击
+
+
